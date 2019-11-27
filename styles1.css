@@ -1,0 +1,10 @@
+body {
+    background: #ffffff;
+}
+
+/*ini adalah kode css untuk paragraf*/
+p {
+    color: blue;
+    font-size: arial, 18x;
+    text-align: justify
+}
